@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author juliomunoz
- *
- */
-module login {
-}
